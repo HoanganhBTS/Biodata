@@ -19,6 +19,8 @@ Pour lancer l'application , lancer le fichier biodata
 Modification , Supression , Insertion de nouvelles Biodata
 Filtre par nom
 Graphique bâton en fonction de l'âge des patients
+Reinitialisation du mot de passe
+Inscription d'un utilisateur
 
 # Aperçu
 
@@ -26,4 +28,6 @@ Graphique bâton en fonction de l'âge des patients
 
 ![java_juH1ozkR72](https://github.com/HoanganhBTS/Biodata/assets/124345096/e1b611cc-3752-4f7a-91d0-acfd199e9ba3)
 
+![java_FQTrSSTGUK](https://github.com/HoanganhBTS/Biodata/assets/124345096/c4c738f2-40f9-455e-bb3c-c3b84eda91bf)
 
+![java_M5VZbkd5Ab](https://github.com/HoanganhBTS/Biodata/assets/124345096/ccb86709-f800-4716-bb0c-4d5a4ba33005)
